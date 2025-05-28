@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-Um bot simples de compra e venda de cripto moedas, utilando a <a href="https://testnet.binance.vision/">API da Binance</a>.
+Um bot simples de compra e venda de cripto moedas, utilizando a <a href="https://testnet.binance.vision/">API da Binance</a>.
 
 ## Informações
 
